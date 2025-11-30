@@ -11,8 +11,6 @@ Easy-to-follow usage instructions
 Demonstrates fundamental cybersecurity principles
 
 **Installation**
-Before running, install any necessary dependencies:
-pip install -r requirements.txt
 
-Then run the tool with:
+Run the tool with:
 python passwordStrengthAnalyzer.py 
